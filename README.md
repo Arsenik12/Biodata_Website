@@ -1,22 +1,42 @@
-# Personal Website of Victor Chia
+# Victor Chia's Personal Website
 
-This is the source code for my personal website, showcasing information about me, my university, and contact options. The website is built with simple HTML structure and is intended to demonstrate my learning progress in web development.
+Ini adalah website pribadi saya yang dibuat menggunakan HTML. Website ini menampilkan informasi tentang saya, profil saya sebagai mahasiswa Informatika di UK Petra, dan menyediakan cara untuk menghubungi saya.
 
-## Project Structure
+## Halaman-Halaman Utama
 
-- **About_Me.html**: Contains a personal introduction, my profile picture, and details about my background as a student in Informatics at UK Petra&#8203;:contentReference[oaicite:0]{index=0}.
-- **About_UKP.html**: Provides a link to the official website of Informatics at UK Petra&#8203;:contentReference[oaicite:1]{index=1}.
-- **Contact.html**: Contains a form that allows visitors to send messages and includes my contact email&#8203;:contentReference[oaicite:2]{index=2}.
+1. **About Me** - Halaman ini berisi perkenalan diri saya, foto profil, dan beberapa informasi mengenai latar belakang pendidikan saya di bidang Informatika.
+2. **About UKP** - Halaman ini memberikan tautan langsung ke website Informatika di Universitas Kristen Petra, Surabaya.
+3. **Contact Me** - Halaman ini menyediakan form kontak agar pengunjung dapat mengirim pesan langsung kepada saya.
 
-## Technologies Used
+## Teknologi yang Digunakan
 
-- HTML5 for structure and content
-- Basic styling within HTML elements
+- HTML5 untuk struktur dan konten.
+- CSS dasar untuk gaya langsung pada elemen HTML.
 
-## License
+## Struktur Project
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+- **About_Me.html**: Halaman berisi informasi profil dan latar belakang saya.
+- **About_UKP.html**: Halaman berisi tautan ke website Informatika UK Petra.
+- **Contact.html**: Halaman yang memungkinkan pengunjung menghubungi saya melalui form.
 
-## Contact
+## Tampilan Website
 
-Feel free to reach out via the contact form on the website or via email at [c14220165@john.petra.ac.id](mailto:c14220165@john.petra.ac.id).
+### Halaman About Me
+![About Me](screenshots/screenshot_about_me.png)
+Halaman ini menampilkan informasi singkat mengenai diri saya sebagai mahasiswa Informatika, lengkap dengan foto profil dan deskripsi.
+
+### Halaman About UKP
+![About UKP](screenshots/screenshot_about_ukp.png)
+Halaman ini berisi tautan ke situs resmi Informatika di Universitas Kristen Petra, untuk memberikan lebih banyak informasi tentang universitas saya.
+
+### Halaman Contact
+![Contact Me](screenshots/screenshot_contact.png)
+Form kontak yang memudahkan pengunjung untuk mengirim pesan melalui email. Pengunjung hanya perlu mengisi alamat email dan pesan.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk informasi lebih lanjut.
+
+## Kontak
+
+Jika ada yang ingin ditanyakan, silakan hubungi saya melalui form di website atau kirim email ke [c14220165@john.petra.ac.id](mailto:c14220165@john.petra.ac.id).
