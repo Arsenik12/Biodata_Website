@@ -11,7 +11,6 @@ Ini adalah website pribadi saya yang dibuat menggunakan HTML. Website ini menamp
 ## Teknologi yang Digunakan
 
 - HTML5 untuk struktur dan konten.
-- CSS dasar untuk gaya langsung pada elemen HTML.
 
 ## Struktur Project
 
