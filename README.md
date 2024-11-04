@@ -21,7 +21,7 @@ Ini adalah website pribadi saya yang dibuat menggunakan HTML. Website ini menamp
 ## Tampilan Website
 
 ### Halaman About Me
-![About Me]([screenshots/screenshot_about_me.png](https://github.com/Arsenik12/Biodata_Website/blob/main/Assets/website_previews/About_Me.png)
+![About Me](https://github.com/Arsenik12/Biodata_Website/blob/main/Assets/website_previews/About_Me.png)
 Halaman ini menampilkan informasi singkat mengenai diri saya sebagai mahasiswa Informatika, lengkap dengan foto profil dan deskripsi.
 
 ### Halaman Contact
