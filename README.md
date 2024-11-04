@@ -21,16 +21,19 @@ Ini adalah website pribadi saya yang dibuat menggunakan HTML. Website ini menamp
 ## Tampilan Website
 
 ### Halaman About Me
-![About Me](screenshots/screenshot_about_me.png)
+![About Me]([screenshots/screenshot_about_me.png](https://github.com/Arsenik12/Biodata_Website/blob/main/Assets/website_previews/About_Me.png)
 Halaman ini menampilkan informasi singkat mengenai diri saya sebagai mahasiswa Informatika, lengkap dengan foto profil dan deskripsi.
 
-### Halaman About UKP
-![About UKP](screenshots/screenshot_about_ukp.png)
-Halaman ini berisi tautan ke situs resmi Informatika di Universitas Kristen Petra, untuk memberikan lebih banyak informasi tentang universitas saya.
-
 ### Halaman Contact
-![Contact Me](screenshots/screenshot_contact.png)
+![Contact Me](https://github.com/Arsenik12/Biodata_Website/blob/main/Assets/website_previews/Contact.png)
 Form kontak yang memudahkan pengunjung untuk mengirim pesan melalui email. Pengunjung hanya perlu mengisi alamat email dan pesan.
+
+### Halaman Home
+![Home](https://github.com/Arsenik12/Biodata_Website/blob/main/Assets/website_previews/Home.png)
+Halaman ini menampilkan informasi singkat mengenai deskripsi diri saya, lengkap dengan foto profil, skill, dan pengalaam.
+
+### Halaman About UKP
+Halaman ini berisi tautan ke situs resmi Informatika di Universitas Kristen Petra, untuk memberikan lebih banyak informasi tentang universitas saya.
 
 ## Lisensi
 
